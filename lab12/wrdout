@@ -1,0 +1,17 @@
+Reading words from output.txt
+Hash Table Stats:
+Number of slots = 688889
+Number of items = 857144
+Chain length distribution
+  Length  #Chains
+       0   198595
+       1   246990
+       2   153674
+       3    63453
+       4    19904
+       5     5062
+       6      991
+       7      187
+       8       31
+       9        2
+Testing completed OK
